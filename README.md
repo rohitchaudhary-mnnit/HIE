@@ -5,4 +5,4 @@ This Repository contains 2 folders HIE-FrontEnd and HIE-Backend which are the fr
 
 The HIE-BackEnd exposes the RESTAPI at localhost:8080/api/serviceproviders providing the essential services.
 
-The HIE-FrontEnd consumes this API for the User Interface.
+The HIE-FrontEnd is a react application which consumes the API and produces the data in UI.
