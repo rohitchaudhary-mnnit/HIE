@@ -1,5 +1,5 @@
 # HIE
-Help It's Emergency
+Help It's Emergency(HIE) is a fullstack web application which provides the most essential services needed during the Covid-19 pandemic with it's simple and friendly UI.
 
 This Repository contains 2 folders HIE-FrontEnd and HIE-Backend which are the frontend and backend code of the project.
 
