@@ -11,7 +11,6 @@ Refer to the screenshots below:
 
 1. REST API response
 2. ![HIE2](https://user-images.githubusercontent.com/65174148/134338651-84dcc079-e07c-4fa1-b197-56bc2790ae67.JPG)
-3. 
-4. User Interface
-5. ![HIE](https://user-images.githubusercontent.com/65174148/134338657-f4bcce23-c234-45b6-8cf2-4105a1b65087.JPG)
+3. User Interface
+4. ![HIE](https://user-images.githubusercontent.com/65174148/134338657-f4bcce23-c234-45b6-8cf2-4105a1b65087.JPG)
 
