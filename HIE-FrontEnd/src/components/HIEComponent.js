@@ -18,7 +18,6 @@ class HIEComponent extends React.Component {
        return(
            <>
            <div>
-           <h2 className = "text-center">Covid Emergency Services</h2>
            <table className = "table table-striped">
                <thead className="App">
                    <tr>
